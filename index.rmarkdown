@@ -42,3 +42,4 @@ legend.title = element_text(size = 10, face = "bold"),
     legend.background = element_rect(fill = "white", color = "black"),
     legend.key = element_rect(fill = "white", color = "black"))
 ```
+
