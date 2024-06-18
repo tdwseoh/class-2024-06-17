@@ -1,5 +1,5 @@
 ---
-title: "Who is the amazing fascinating glorious data scientist that made this"
+title: "About the Author"
 ---
 
-**Thomas Seoh**
+**Thomas Seoh**, is an amazing data scientist that has created this amazing graph.
